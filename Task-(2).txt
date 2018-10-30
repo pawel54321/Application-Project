@@ -1,1 +1,2 @@
-- Models in Django
+- Models in Django (blog)
+- Admin Django
